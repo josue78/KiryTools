@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiryTools", "KiryTools\KiryTools.csproj", "{40AA9DD7-D594-4555-B308-81CAF13360EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{CA5F40FF-4007-48A7-852A-67BDEAE6699F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel", "ViewModel\ViewModel.csproj", "{B103FAE6-0B52-4C42-A233-7DF01C961532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AA9DD7-D594-4555-B308-81CAF13360EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AA9DD7-D594-4555-B308-81CAF13360EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AA9DD7-D594-4555-B308-81CAF13360EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AA9DD7-D594-4555-B308-81CAF13360EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B103FAE6-0B52-4C42-A233-7DF01C961532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B103FAE6-0B52-4C42-A233-7DF01C961532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B103FAE6-0B52-4C42-A233-7DF01C961532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B103FAE6-0B52-4C42-A233-7DF01C961532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B103FAE6-0B52-4C42-A233-7DF01C961532} = {CA5F40FF-4007-48A7-852A-67BDEAE6699F}
+	EndGlobalSection
+EndGlobal

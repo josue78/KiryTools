@@ -1,0 +1,17 @@
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\bin\Debug\ViewModel.exe.config
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\bin\Debug\ViewModel.exe
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\bin\Debug\KiryTools.dll
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\bin\Debug\KiryTools.pdb
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\Views\MainWindow.baml
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\Views\MainWindow.g.cs
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\App.g.cs
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel_MarkupCompile.cache
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel.g.resources
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel.exe
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\ViewModel\obj\Debug\ViewModel_MarkupCompile.lref

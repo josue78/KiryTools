@@ -1,0 +1,5 @@
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\KiryTools\bin\Debug\KiryTools.dll
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\KiryTools\bin\Debug\KiryTools.pdb
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\KiryTools\obj\Debug\KiryTools.csprojResolveAssemblyReference.cache
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\KiryTools\obj\Debug\KiryTools.dll
+C:\Users\eli\documents\visual studio 2013\Projects\KiryTools\KiryTools\obj\Debug\KiryTools.pdb
